@@ -1,0 +1,12 @@
+{
+  "name": "ui-mq",
+  "displayName": "MQ",
+  "theme": "ui",
+  "version": "1.0.0",
+  "description": "Theme for Mailspring.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
